@@ -1,0 +1,12 @@
+// 27/04/2017
+// Frank Wang
+// Determine some 3s
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include "captcha.h"
+
+int threes(int height, int width, int pixels[height][width]){
+
